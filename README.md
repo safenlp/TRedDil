@@ -6,3 +6,5 @@
 
 # TRedDil - Revealing Systematic Language Bias in LLM Safety
 Türkçe REddedilmesi gereken DİL sorguları - Turkish Queries That Should Be Refused
+
+Upcoming..
